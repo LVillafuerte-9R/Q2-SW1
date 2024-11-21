@@ -1,0 +1,18 @@
+body {
+	background-color: black;
+	color: goldenrod;
+}
+
+.container {
+	background-color: darkred;
+}
+
+.footer {
+	background-color: goldenrod;
+	color: darkred;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
